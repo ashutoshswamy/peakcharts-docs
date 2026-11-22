@@ -9,9 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ashutoshswamy/smoui": "^0.1.0",
+    "@heroicons/react": "^2.2.0",
+    "motion": "^14.14.0",
     "next": "16.4.6",
+    "peakcharts": "^0.1.0",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "react-icons": "^5.7.0",
+    "shiki": "^4.6.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
